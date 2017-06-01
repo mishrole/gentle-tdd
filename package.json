@@ -1,0 +1,25 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "Ejercicio de tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishrole/gentle-tdd.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "ejercicio",
+    "Eli"
+  ],
+  "author": "mishrole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishrole/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/mishrole/gentle-tdd#readme"
+}
